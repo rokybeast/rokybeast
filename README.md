@@ -1,73 +1,65 @@
-<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=4000&pause=1000&center=true&width=460&lines=Hey%2C+I%27m+RokyBeast!;aka+Joy+Boy;Sun+God+?+No,+I'm+The+VBA+Noob!;Math%2C+Rust%2C+Hacking+%26+More..." alt="Typing SVG"/>
-</p>
+	<h1 style="font-size:80px; font-weight: 100;"  align="center">[ r o k y b e a s t ]</h1>
+	<p align="center">a professional time waster.</p>
+<br>
+<div align="center">
+  <img src="https://github.com/rokybeast/rokybeast/blob/main/ae08q5.gif?raw=true" width="300"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Works%20on%20my%20machine%2C%20vro%20%F0%9F%A5%80-white?style=for-the-badge"> 
+  <img src="https://img.shields.io/endpoint?url=https://spotify-npp.onrender.com/badge&style=for-the-badge"/>
+</div>
 
-<!-- Profile Badges -->
-<p align="center">
-  <a href="discord.com/users/847851585706393652"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Asphalt9-FastAF-red?style=for-the-badge&logo=car&logoColor=white"/></a>
-</p>
+> [!WARNING]
+> What you're about to read, or even see.. Is just gonna waste your time. Try not to do so! :smile:
+
+$$ \left( \int_{0}^{1}1\,dx \cdot \sum_{n=1}^{\infty}2^{-n} \cdot \lim_{m\to\infty}\frac{(1+\frac{1}{m})^{m}}{e} \cdot \Gamma(1) \cdot 0! \cdot \int_{-\infty}^{\infty}\delta(x)\,dx \right) = 1 $$
+
+# ❓ Who Am I
+
+hello there! I'm **rokybeast**, a programmer, who probably contributed (and will contribute) nothing to the world. I usually like to program in Rust and C, as I like low-level programming languages. I also work with web frameworks, like Svelte, React, etc. I like to play around with math as well, thus the huge equation up there.. (it all equals to 1).
+
+# 📍 Where I live
+
+I work (not), at Hyderabad, India. And, usually don't go outside of the country.
+
+# ⚒ Stuff I use
+
+<div align="center">
+	<h3>Languages:</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=rust,go,cpp,c,arduino,wasm,java,typescript,javascript,py,html,css,scss"/>
+  </div>
+  	<h3>Helpers:</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,nodejs,npm,tauri,selenium,tailwind,latex"/>
+  </div>
+      	<h3>IDEs and Other Stuff:</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,docker,neovim,vscode,webstorm,idea,github,firebase"/>
+  </div>
+  	<h3>Operating Systems:</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,windows"/>
+  </div>
+      	<h3>Terminal Interfaces:</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=bash,powershell"/>
+  </div>
+</div>
+
+# 📚 Projects
+
+Here are some of the projects I am building (or done), If you want to know more about my projects, head over to [my website](https://rokybeast.github.io).
+
+| **Project Name**     | **Version**            | **Status**                                                                                         |
+| -------------------- | ---------------------- | -------------------------------------------------------------------------------------------------- |
+| **[datalab]**        | <center>—</center>     | A CyberChef Remake, with better looking UI, and performance, and more features. Completely Offline |
+| **Datachemist**      | <center>—</center>     | A DSL for datalab. Feels like Rust and TypeScript.                                                 |
+| **Poly**             | <center>—</center>     | A really neat programming language.                                                                |
+| **VBAEngine**        | <center>1.0.0</center> | VBA Library, for PPTOSes, to talk with hardware.                                                   |
+| <center>...</center> | <center>...</center>   | <center>...</center>                                                                               |
 
 
----
-
-### 🚀 About Me
-
-I'm **RokyBeast** a special person, who is truly dumb, as I work with VBA..
-I'm currently learning cryptography, to heck stuff, and Math, coz I live in Asia. 
- I have a Microsoft E5 Developer Account, its cool I guess.
- That's pretty much **about me**, sooo-
-
----
-
-### 🔧 I Work With
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤓VBA-007620?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
----
-
-### ⚡ My Weapons
-- 🔭 Currently building: **PPTOS** — A full-featured windowed OS in PowerPoint
-- 💡 Invented: `CursorEngine`, `Dripo`, `IOEngine`, `BromineOS`
-- 🎯 Mission: Build `structure` and be satisfied by it :D
-- 🧠 Goal: Leave working with VBA, and get a life
-- 🎮 As A Human: Playing **Asphalt Legends Unite**, completed **One Piece** & **The Simpsons**
-
----
-
-### 🌌 Main Projects
-| Project | Description | Status |
-|--------|-------------|--------|
-| **CursorAPI** | Detects cursor hover, clicks, and XY | 🚧 In progress |
-| **Dripo** | Custom VBA scripting language | ⏸ Paused |
-| **IOEngine** | Input & Output system: [GitHub Link](https://github.com/rokybeastt/IOEngine) | ✅ Stable v1 |
-| **BromineOS** | Custom VBA scripting language | ⏸ Paused |
-
----
-
-### 🔥 What I want to say
-> “I code in the best language ever made, VBA, I definetly have no regrets 😀”  
-> — *Rokybeast, help me*
-
----
-
-### 🎶 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ss1haigqtrb89qyvxj2iajclo&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/ss1haigqtrb89qyvxj2iajclo)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokybeastt&show_icons=true&theme=dark&hide=prs&count_private=true" alt="rokybeastt's stats"/>
-</p>
-
----
+So, that's it I guess. bye.
