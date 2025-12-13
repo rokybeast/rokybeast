@@ -3,7 +3,7 @@
 	<p align="center">a professional time waster.</p>
 <br>
 <div align="center">
-  <img src="https://github.com/rokybeast/rokybeast/blob/main/ae08q5.gif?raw=true" width="300"/>
+  <img alt="miya bhai dance" src="https://github.com/rokybeast/rokybeast/blob/main/ae08q5.gif?raw=true" width="300"/>
 </div>
 <br>
 <div align="center">
@@ -57,7 +57,7 @@ Here are some of the projects I am building (or done), If you want to know more 
 | -------------------- | ---------------------- | -------------------------------------------------------------------------------------------------- |
 | **[datalab]**        | <center>—</center>     | A CyberChef Remake, with better looking UI, and performance, and more features. Completely Offline |
 | **Datachemist**      | <center>—</center>     | A DSL for datalab. Feels like Rust and TypeScript.                                                 |
-| **Poly**             | <center>—</center>     | A really neat programming language.                                                                |
+| **Vex**              | <center>—</center>     | A really neat programming language.                                                                |
 | **VBAEngine**        | <center>1.0.0</center> | VBA Library, for PPTOSes, to talk with hardware.                                                   |
 | <center>...</center> | <center>...</center>   | <center>...</center>                                                                               |
 
