@@ -20,10 +20,6 @@ $$ \left( \int_{0}^{1}1\,dx \cdot \sum_{n=1}^{\infty}2^{-n} \cdot \lim_{m\to\inf
 
 hello there! I'm **rokybeast**, a programmer, who probably contributed (and will contribute) nothing to the world. I usually like to program in Rust and C, as I like low-level programming languages. I also work with web frameworks, like Svelte, React, etc. I like to play around with math as well, thus the huge equation up there.. (it all equals to 1).
 
-# 📍 Where I live
-
-I work (not), at Hyderabad, India. And, usually don't go outside of the country.
-
 # ⚒ Stuff I use
 
 <div align="center">
