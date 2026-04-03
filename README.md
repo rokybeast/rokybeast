@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Works%20on%20my%20machine%2C%20vro%20%F0%9F%A5%80-white?style=for-the-badge"> 
-  <img src="https://img.shields.io/endpoint?url=https://spotify-npp.onrender.com/badge&style=for-the-badge"/>
+  <img src="https://img.shields.io/endpoint?url=https://spnproxy.onrender.com/badge&style=for-the-badge"/>
 </div>
 
 > [!WARNING]
