@@ -1,0 +1,20 @@
+token: ${{ secrets.METRICS_TOKEN }}
+          user: rokybeast
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+        
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+        
+          plugin_lines: yes
+        
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+        
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_load: 400
