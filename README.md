@@ -20,13 +20,13 @@ $$ \left( \int_{0}^{1}1\,dx \cdot \sum_{n=1}^{\infty}2^{-n} \cdot \lim_{m\to\inf
 
 ---
 
-# ❓ Who Am I
+# WHO is ts?
 
 hello there! I'm **rokybeast**, a programmer, who probably contributed (and will contribute) nothing to the world. I usually like to program in Rust and C, as I like low-level programming languages. I also work with web frameworks, like Svelte, React, etc. I like to play around with math as well, thus the huge equation up there.. (it all equals to 1).
 
 ---
 
-# 📚 Projects
+# my projects
 
 Here are some of the projects I am building (or done), If you want to know more about my projects, head over to [my website](https://sajid-shaik.space).
 
@@ -35,8 +35,9 @@ Here are some of the projects I am building (or done), If you want to know more 
 | **Project Name**     | **Version**            | **Description**                                                                                    |
 | -------------------- | ---------------------- | -------------------------------------------------------------------------------------------------- |
 | **xenonpass/butane** | <center>v1.0.1</center>| A Clean, Secure, Cryptographic Core, for the **xenonpass** Password Manager                        |
-| **stellerite**       | <center>—</center>     | A Linux Shell (Made in Rust, Slint and OpenGL)                                                     |
+| **stelleritehq/shell**| <center>—</center>    | A Linux Shell (Made in Rust, Slint and OpenGL)                                                     |
 | **portfolio**        | <center>v2</center>    | My Portfolio https://sajid-shaik.space.                                                            |
+| **gitty**            | <center>0.3.0</center> | A Git Frontend (TUI), which is minimalistic, and also aesthetic, in Go                             |
 | **VBAEngine**        | <center>1.0.0</center> | VBA Library, for PPTOSes, to talk with hardware.                                                   |
 | <center>...</center> | <center>...</center>   | <center>...</center>                                                                               |
 
@@ -47,7 +48,7 @@ Here are some of the projects I am building (or done), If you want to know more 
     <img align="center" src="https://github.com/rokybeast/rokybeast/blob/main/github-metrics.svg">
 </div>
 
-# ⚒ My Languages
+# what i work with
 
 <div align="center">
 	<h3>Languages:</h3>
